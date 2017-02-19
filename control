@@ -1,0 +1,9 @@
+Package: com.subdiox.librecless
+Name: librecless
+Depends: mobilesubstrate, firmware (>= 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Library for Recless (Screen Recorder with System Audio Recording Feature)
+Maintainer: subdiox
+Author: subdiox
+Section: Tweaks
